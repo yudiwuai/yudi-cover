@@ -4,6 +4,10 @@
 
 适用于支持 Skill / 自定义指令的 Agent（如 Qoder、Claude Code）。出图依赖支持参考图的图片生成工具。
 
+## 输出示例
+
+![示例封面](assets/sample-output.png)
+
 ![御弟形象参考](assets/character-ref.png)
 
 ![画风参考](assets/style-ref.png)
